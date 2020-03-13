@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D7C77DE4-F641-C012-EC61-26AC0480964E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Trump.cs">
+    <Files>
+      <File FileName="Assets/Trump.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Animation Master Workshop" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Trump.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5d12d485-283f-4851-b2bd-d207fe8948a9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: 905065a955d694117bc894ed920794ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8339683018613395615
+    second: F6FSzbi_0
+  - first:
+      213: 2165086978946341569
+    second: F6FSzbi_1
+  - first:
+      213: 8821136113294410535
+    second: F6FSzbi_2
+  - first:
+      213: -6227119769215001295
+    second: F6FSzbi_3
+  - first:
+      213: -1568747169823039760
+    second: F6FSzbi_4
+  - first:
+      213: 55957961012952500
+    second: F6FSzbi_5
+  - first:
+      213: 6553622559644736808
+    second: F6FSzbi_6
+  - first:
+      213: -3082232848649784421
+    second: F6FSzbi_7
+  - first:
+      213: -2164261572043096419
+    second: F6FSzbi_8
+  - first:
+      213: 5970390011632924345
+    second: F6FSzbi_9
+  - first:
+      213: -5634546534384729082
+    second: F6FSzbi_10
+  - first:
+      213: -7233085997632372070
+    second: F6FSzbi_11
+  - first:
+      213: 7704012790729959602
+    second: F6FSzbi_12
+  - first:
+      213: -3597312591959445223
+    second: F6FSzbi_13
+  - first:
+      213: -1068860850341236630
+    second: F6FSzbi_14
+  - first:
+      213: 7215318709764412080
+    second: F6FSzbi_15
+  - first:
+      213: 89827022588667825
+    second: F6FSzbi_16
+  - first:
+      213: -9156840806405601448
+    second: F6FSzbi_17
+  - first:
+      213: 7950876948200351301
+    second: F6FSzbi_18
+  - first:
+      213: -1924520256791246595
+    second: F6FSzbi_19
+  - first:
+      213: 7114561579554389811
+    second: F6FSzbi_20
+  - first:
+      213: -2274942371430098383
+    second: F6FSzbi_21
+  - first:
+      213: -8325537773981497457
+    second: F6FSzbi_22
+  - first:
+      213: -5253904061496063562
+    second: F6FSzbi_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: F6FSzbi_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 318
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f901fc715818cb370800000000000000
+      internalID: 8339683018613395615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 313
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca9befd22feb0e10800000000000000
+      internalID: 2165086978946341569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 313
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72388440f88fa6a70800000000000000
+      internalID: 8821136113294410535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 317
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d90260093d499a0800000000000000
+      internalID: -6227119769215001295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 311
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe5c48b2c0ba3ae0800000000000000
+      internalID: -1568747169823039760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 315
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd3884187dc6c000800000000000000
+      internalID: 55957961012952500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 218
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d5c93def423fa50800000000000000
+      internalID: 6553622559644736808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 210
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b937035fd85b935d0800000000000000
+      internalID: -3082232848649784421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 212
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eb755219ff6f1e0800000000000000
+      internalID: -2164261572043096419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 218
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6bbe545161bd250800000000000000
+      internalID: 5970390011632924345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_10
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 213
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6040793b7c11ec1b0800000000000000
+      internalID: -5634546534384729082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 214
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9245419b9aee9b90800000000000000
+      internalID: -7233085997632372070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 116
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b86688c0d62aea60800000000000000
+      internalID: 7704012790729959602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 110
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911b73ac147c31ec0800000000000000
+      internalID: -3597312591959445223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 110
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60b61d38b4aa21f0800000000000000
+      internalID: -1068860850341236630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_15
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 115
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2dcbc5326f12460800000000000000
+      internalID: 7215318709764412080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_16
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 111
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7e0ac73312f3100800000000000000
+      internalID: 89827022588667825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_17
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 111
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85784653dcd5ce080800000000000000
+      internalID: -9156840806405601448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 19
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546e2567570375e60800000000000000
+      internalID: 7950876948200351301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 13
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df80ae2e50bba45e0800000000000000
+      internalID: -1924520256791246595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_20
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 14
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f3bf1ef000cb260800000000000000
+      internalID: 7114561579554389811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_21
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 18
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a9c6267f7cd60e0800000000000000
+      internalID: -2274942371430098383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 11
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f878cb1518fb57c80800000000000000
+      internalID: -8325537773981497457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F6FSzbi_23
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 12
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b98b8aa7126617b0800000000000000
+      internalID: -5253904061496063562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
